@@ -1,0 +1,53 @@
+<style type="text/css" href="/style.css">
+
+#tribute-link{
+  text-align: center;
+}
+
+#title{
+  font: 50px helvetica;
+  text-align: center;
+  color: white;
+}
+
+#img-caption{
+  max-width: 200px;
+  display: block;
+  height: auto;
+  text-align: center;
+  color: black;
+  background: white;
+  margin: 0 auto;
+  font: 20px helvetica;
+  border: 6px solid white;
+  border-radius: 0px 0px 20px 20px;
+
+}
+#image{ 
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border: 6px solid white;
+  border-radius: 20px;
+}
+
+#tribute-info{
+  display: block;
+  text-align: justify;
+  max-width: 50%;
+  font: 15px helvetica;
+  margin: 20px auto 50px auto;
+  padding: 5px;
+  color: white;
+}
+
+a:link {
+  color: white;
+}
+
+*{
+  background: #8C7FB9;
+}
+
+</style>
